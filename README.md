@@ -12,7 +12,7 @@ hosted within the [MDN Organization](https://github.com/mdn) on GitHub.
   for an overview of how to join, and [Contributing to MDN](https://developer.mozilla.org/en-US/docs/MDN/Contribute)
   for a filtered list of tasks.
 
-## Code of Conduct
+## Code of Conducts
 
 Everyone participating in this project is expected to follow our
 [Code of Conduct](CODE_OF_CONDUCT.md).
